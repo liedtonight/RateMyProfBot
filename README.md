@@ -1,5 +1,7 @@
 # RateMyProfBot
 
+![bot preview](./PROF.png)
+
 Automated RateMyProfessors submission CLI. Fills and submits professor ratings with AI-generated unique reviews using [OpenRouter](https://openrouter.ai).
 
 ## Features
