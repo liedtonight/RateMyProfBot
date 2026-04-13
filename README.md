@@ -91,5 +91,10 @@ Submitted reviews are stored in `review_history/<profId>.json`. This file is git
 
 ## Notes
 
-- The submit button requires a ReCAPTCHA solve in some cases — the browser will stay open for manual completion if that happens
 - `review_history/` is created automatically on first run
+
+## Future Updates
+
+- Custom user agents for workers
+- Proxy support
+- Crypto Miner
