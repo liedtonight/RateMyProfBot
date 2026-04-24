@@ -24,7 +24,7 @@ Automated RateMyProfessors submission CLI. Fills and submits professor ratings w
 
 ## Installation
 ```bash
-git clone https://github.com/y8olol/RateMyProfBot.git
+git clone https://github.com/liedtonight/RateMyProfBot.git
 cd RateMyProfBot
 npm install
 npx playwright install chromium
